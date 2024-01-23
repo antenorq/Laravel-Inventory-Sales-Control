@@ -1,7 +1,7 @@
 # Laravel Sales Control
 
 ## Application Access
-You can access the application here. Over there will see username and password to use:
+You can access the application here. Over there you will see username and password to use:
 <br>
 <a href="http:www.laravel.antenorqueiroz.com">www.laravel.antenorqueiroz.com</a>
 <br>
